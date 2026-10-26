@@ -2,3 +2,6 @@ test.ts
 .DS_Store
 *.png
 *.ttf
+node_modules
+*.bundle.js
+*.so

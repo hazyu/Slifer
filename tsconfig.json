@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "nodenext",
+        "target": "es2025",
+        "typeRoots": [
+            "node_modules/@txikijs/types",
+            "node_modules/@types"
+        ]
+    }
+}
